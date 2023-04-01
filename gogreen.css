@@ -1,0 +1,15 @@
+h1.heading-text{
+    color:aqua;
+    text-align:center;
+}
+
+h2.sub-heading-quote{
+    text-align: center;
+    color:darkcyan;
+}
+
+h2.reduce-paper-sub{
+    text-decoration-line: underline;
+    color:red;
+    font-family:monospace
+}
